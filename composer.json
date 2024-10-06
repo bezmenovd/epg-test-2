@@ -1,0 +1,9 @@
+{
+    "name": "user/easy-partners-group-test-2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
